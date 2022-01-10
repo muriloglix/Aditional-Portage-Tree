@@ -21,7 +21,7 @@ RDEPEND="
         dev-python/pydantic[${PYTHON_USEDEP}]
         dev-python/ujson[${PYTHON_USEDEP}]
         dev-python/python-email-validator[${PYTHON_USEDEP}]
-        dev-pytthon/requests[${PYTHON_USEDEP}]
+        dev-python/requests[${PYTHON_USEDEP}]
         dev-python/jinja[${PYTHON_USEDEP}]
         dev-python/itsdangerous[${PYTHON_USEDEP}]
         dev-python/pyyaml[${PYTHON_USEDEP}]
