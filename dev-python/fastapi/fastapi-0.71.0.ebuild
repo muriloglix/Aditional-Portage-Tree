@@ -16,6 +16,8 @@ LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~amd64 ~arm64 ~x86"
 
+DISTUTILS_USE_SETUPTOOLS=pyproject.toml
+
 RDEPEND="
         dev-python/starlette[${PYTHON_USEDEP}]
         dev-python/pydantic[${PYTHON_USEDEP}]
