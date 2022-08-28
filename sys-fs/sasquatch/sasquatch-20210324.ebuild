@@ -74,6 +74,4 @@ src_compile() {
 
 src_install() {
     dobin sasquatch
-	dodoc ACKNOWLEDGEMENTS CHANGES README*
-	dodoc -r RELEASE-READMEs
 }
